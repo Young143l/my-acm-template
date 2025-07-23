@@ -4,7 +4,7 @@
 
 ## 进度
 
-- [ ] 0x00 基础算法
+- [x] 0x00 基础算法
   - [x] 0x01 位运算(bit operation)
   - [x] 0x02 递推与递归(recursion and recursion)
   - [x] 0x03 前缀与差分(prefix and difference)
