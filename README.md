@@ -16,14 +16,14 @@
     - [x] 逆序对(reverse order)
   - [x] 0x06 倍增 (multiplication)
   - [x] 0x07 贪心 (greed)
-- [ ] 0x10 基础数据结构(data structure)
+- [x] 0x10 基础数据结构(data structure)
   - [x] 0x11 栈(stack)
     - [x] 最小栈(minimum stack)
     - [x] 单调栈(monotone stack)
   - [x] 0x12 队列(queue)
     - [x] 单调队列(monotonic queue)
-  - [ ] 0x13 链表与邻接表(linked lists and adjacency tables)
-  - [ ] 0x14 hash
+  - [x] 0x13 链表与邻接表(linked lists and adjacency tables)
+  - [x] 0x14 hash
   - [x] 0x15 字符串(string)
     - [x] 字符串kmp算法(string kmp)
     - [x] 最小表示(minimum representation)
